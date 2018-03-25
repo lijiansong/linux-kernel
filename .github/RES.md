@@ -5,3 +5,7 @@
 - Stanford CS140, [Operating System](http://web.stanford.edu/~ouster/cgi-bin/cs140-winter16/index.php)
 - USTC, Linux操作系统分析, see [here](http://staff.ustc.edu.cn/~xlanchen/ULK2014Fall/ULK2014Fall.html)
 - 163 [page](http://mooc.study.163.com/course/USTC-1000029000#/info)
+- Tutorial: write a system call, see this [page](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+- Linux Driver Tutorial: How to Write a Simple Linux Device Driver, <https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os>
+- The Linux Kernel Implementation of Pipes and FIFOs: <https://www.slideshare.net/divyekapoor/linux-kernel-implementation-of-pipes-and-fifos>
+- latech.edu, file system implementation: <http://www2.latech.edu/~box/os/ch11.pdf> & it course slides: <http://www2.latech.edu/~box/os/>
